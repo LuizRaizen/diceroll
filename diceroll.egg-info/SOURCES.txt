@@ -1,0 +1,7 @@
+README.md
+diceroll.py
+setup.py
+diceroll.egg-info/PKG-INFO
+diceroll.egg-info/SOURCES.txt
+diceroll.egg-info/dependency_links.txt
+diceroll.egg-info/top_level.txt
